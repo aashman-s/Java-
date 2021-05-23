@@ -11,7 +11,7 @@ public class javaclass {
 //		
 //		String name = sc.next();
 		
-		System.out.println("hello " + args[1] );
+		System.out.println("Hello " + args[1] );
 
 	}
 
